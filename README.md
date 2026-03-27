@@ -32,16 +32,14 @@ W wyniku testów na modelach o różnym stopniu skomplikowania (w tym detal z ro
 
 ## 📷 Prezentacja Wyników
 
-*(W tym miejscu podmień linki na odpowiednie zrzuty ekranu w formacie .png lub .jpg wycięte ze sprawozdania)*
+### Model odlewu
+<img width="459" height="354" alt="image" src="https://github.com/user-attachments/assets/31e33b5f-9747-4ad5-963e-3f7465e7be8f" />
 
-### Zdefiniowanie obszaru naddatków metodą podziału
-![Podział obiektu](images/metoda4_podziel.jpg)
+### Metoda I – gotowy rysunek
+<img width="701" height="464" alt="image" src="https://github.com/user-attachments/assets/f751b25d-bfd3-4eb1-b4c6-f6c4049ecd7f" />
 
-### Porównanie: Błędne kreskowanie vs Poprawne kreskowanie naddatków
-![Kreskowanie](images/kreskowanie_poprawa.jpg)
-
-### Finalny rysunek wykonawczy odlewu z zachowaniem asocjatywności
-![Gotowy Rysunek](images/gotowy_rysunek.jpg)
+### Gotowy rysunek
+<img width="932" height="1222" alt="image" src="https://github.com/user-attachments/assets/bdc2e123-2052-41c6-b3f7-137bf42943f1" />
 
 ---
 *Praca zrealizowana w Instytucie Technik Wytwarzania (Zakład Automatyzacji i Obróbki Skrawaniem) na Politechnice Warszawskiej (Kierunek: Automatyzacja i Robotyzacja Procesów Produkcyjnych).*
